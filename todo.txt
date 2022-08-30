@@ -1,0 +1,7 @@
+agregar el fee al mintear un nft
+
+el metodo de los nft para obtener la lista de todos los nft podria ser mejorable para que no recorra todo el array
+
+comprobar el precio de gas de la aprobacion
+
+catch las operaciones fallidas o canceladas de metamask
